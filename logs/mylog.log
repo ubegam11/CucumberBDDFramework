@@ -1,0 +1,123 @@
+[FATAL] 2024-06-21 11:11:16.615 [main] StepDefn - Setup1 executed...
+[INFO ] 2024-06-21 11:11:16.672 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:11:18.021 [main] StepDefn - navigated to login page
+[INFO ] 2024-06-21 11:11:18.423 [main] StepDefn - Login is performed
+[INFO ] 2024-06-21 11:11:20.379 [main] StepDefn - Clicked on login button
+[INFO ] 2024-06-21 11:11:20.387 [main] StepDefn - user can view dashboard test passed.
+[INFO ] 2024-06-21 11:11:22.485 [main] StepDefn - customer menu clicked
+[INFO ] 2024-06-21 11:11:24.733 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:11:25.219 [main] StepDefn - navigated to login page
+[INFO ] 2024-06-21 11:11:25.550 [main] StepDefn - Login is performed
+[INFO ] 2024-06-21 11:11:26.932 [main] StepDefn - Clicked on login button
+[INFO ] 2024-06-21 11:11:27.625 [main] StepDefn - user can view dashboard test passed.
+[INFO ] 2024-06-21 11:11:29.712 [main] StepDefn - customer menu clicked
+[INFO ] 2024-06-21 11:11:32.384 [main] StepDefn - customer menu item clicked
+[INFO ] 2024-06-21 11:11:34.652 [main] StepDefn - Clicked on search button.
+[INFO ] 2024-06-21 11:11:36.898 [main] StepDefn - Browser closed
+[INFO ] 2024-06-21 11:11:36.923 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:11:37.128 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:11:37.158 [main] StepDefn - Browser is intialized
+[FATAL] 2024-06-21 11:11:38.105 [main] StepDefn - Setup1 executed...
+[INFO ] 2024-06-21 11:11:38.109 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:11:39.532 [main] StepDefn - navigated to login page
+[INFO ] 2024-06-21 11:11:39.936 [main] StepDefn - Login is performed
+[INFO ] 2024-06-21 11:11:41.579 [main] StepDefn - Clicked on login button
+[WARN ] 2024-06-21 11:11:42.645 [main] StepDefn - Test passed: Login feature :Page title matched.
+[INFO ] 2024-06-21 11:11:44.364 [main] StepDefn - user clicked on logout link.
+[INFO ] 2024-06-21 11:11:44.501 [main] StepDefn - Browser closed
+[FATAL] 2024-06-21 11:12:36.317 [main] StepDefn - Setup1 executed...
+[INFO ] 2024-06-21 11:12:36.355 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:12:37.671 [main] StepDefn - navigated to login page
+[INFO ] 2024-06-21 11:12:38.052 [main] StepDefn - Login is performed
+[INFO ] 2024-06-21 11:12:39.755 [main] StepDefn - Clicked on login button
+[INFO ] 2024-06-21 11:12:39.811 [main] StepDefn - user can view dashboard test passed.
+[INFO ] 2024-06-21 11:12:44.126 [main] StepDefn - customer menu clicked
+[INFO ] 2024-06-21 11:12:46.758 [main] StepDefn - customer menu item clicked
+[INFO ] 2024-06-21 11:12:49.341 [main] StepDefn - clicked on add new button.
+[INFO ] 2024-06-21 11:12:49.366 [main] StepDefn - User can view Add new customer page- passed
+[INFO ] 2024-06-21 11:12:50.805 [main] StepDefn - customer information entered
+[INFO ] 2024-06-21 11:12:55.277 [main] StepDefn - clicked on save button
+[INFO ] 2024-06-21 11:12:55.418 [main] StepDefn - User can view confirmation message - passed
+[INFO ] 2024-06-21 11:12:55.580 [main] StepDefn - Browser closed
+[INFO ] 2024-06-21 11:12:55.613 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:12:55.751 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:12:55.832 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:12:55.866 [main] StepDefn - Browser is intialized
+[FATAL] 2024-06-21 11:12:56.692 [main] StepDefn - Setup1 executed...
+[INFO ] 2024-06-21 11:12:56.695 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:12:58.156 [main] StepDefn - navigated to login page
+[INFO ] 2024-06-21 11:12:58.478 [main] StepDefn - Login is performed
+[INFO ] 2024-06-21 11:13:00.063 [main] StepDefn - Clicked on login button
+[WARN ] 2024-06-21 11:13:01.133 [main] StepDefn - Test passed: Login feature :Page title matched.
+[INFO ] 2024-06-21 11:13:02.661 [main] StepDefn - user clicked on logout link.
+[INFO ] 2024-06-21 11:13:02.791 [main] StepDefn - Browser closed
+[FATAL] 2024-06-21 11:16:15.577 [main] StepDefn - Setup1 executed...
+[INFO ] 2024-06-21 11:16:15.623 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:16:17.087 [main] StepDefn - navigated to login page
+[INFO ] 2024-06-21 11:16:17.595 [main] StepDefn - Login is performed
+[INFO ] 2024-06-21 11:16:19.205 [main] StepDefn - Clicked on login button
+[INFO ] 2024-06-21 11:16:20.528 [main] StepDefn - user can view dashboard test passed.
+[INFO ] 2024-06-21 11:16:22.616 [main] StepDefn - customer menu clicked
+[INFO ] 2024-06-21 11:16:25.265 [main] StepDefn - customer menu item clicked
+[INFO ] 2024-06-21 11:16:27.871 [main] StepDefn - clicked on add new button.
+[INFO ] 2024-06-21 11:16:27.881 [main] StepDefn - User can view Add new customer page- passed
+[INFO ] 2024-06-21 11:16:29.268 [main] StepDefn - customer information entered
+[INFO ] 2024-06-21 11:16:33.576 [main] StepDefn - clicked on save button
+[INFO ] 2024-06-21 11:16:33.738 [main] StepDefn - User can view confirmation message - passed
+[INFO ] 2024-06-21 11:16:33.911 [main] StepDefn - Browser closed
+[FATAL] 2024-06-21 11:16:34.870 [main] StepDefn - Setup1 executed...
+[INFO ] 2024-06-21 11:16:34.873 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:16:36.389 [main] StepDefn - navigated to login page
+[INFO ] 2024-06-21 11:16:36.748 [main] StepDefn - Login is performed
+[INFO ] 2024-06-21 11:16:38.514 [main] StepDefn - Clicked on login button
+[WARN ] 2024-06-21 11:16:39.678 [main] StepDefn - Test passed: Login feature :Page title matched.
+[INFO ] 2024-06-21 11:16:41.216 [main] StepDefn - user clicked on logout link.
+[INFO ] 2024-06-21 11:16:41.348 [main] StepDefn - Browser closed
+[FATAL] 2024-06-21 11:16:42.251 [main] StepDefn - Setup1 executed...
+[INFO ] 2024-06-21 11:16:42.254 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:16:42.837 [main] StepDefn - navigated to login page
+[INFO ] 2024-06-21 11:16:43.167 [main] StepDefn - Login is performed
+[INFO ] 2024-06-21 11:16:43.582 [main] StepDefn - Clicked on login button
+[FATAL] 2024-06-21 11:16:44.723 [main] StepDefn - Setup1 executed...
+[INFO ] 2024-06-21 11:16:44.726 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:16:45.328 [main] StepDefn - navigated to login page
+[INFO ] 2024-06-21 11:16:45.690 [main] StepDefn - Login is performed
+[INFO ] 2024-06-21 11:16:46.998 [main] StepDefn - Clicked on login button
+[WARN ] 2024-06-21 11:16:47.565 [main] StepDefn - Test passed: Login feature :Page title matched.
+[INFO ] 2024-06-21 11:16:49.102 [main] StepDefn - user clicked on logout link.
+[INFO ] 2024-06-21 11:16:49.238 [main] StepDefn - Browser closed
+[FATAL] 2024-06-21 11:21:13.008 [main] StepDefn - Setup1 executed...
+[INFO ] 2024-06-21 11:21:13.056 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:21:14.424 [main] StepDefn - navigated to login page
+[INFO ] 2024-06-21 11:21:14.797 [main] StepDefn - Login is performed
+[INFO ] 2024-06-21 11:21:16.414 [main] StepDefn - Clicked on login button
+[INFO ] 2024-06-21 11:21:17.475 [main] StepDefn - user can view dashboard test passed.
+[INFO ] 2024-06-21 11:21:19.560 [main] StepDefn - customer menu clicked
+[INFO ] 2024-06-21 11:21:22.123 [main] StepDefn - customer menu item clicked
+[INFO ] 2024-06-21 11:21:24.697 [main] StepDefn - clicked on add new button.
+[INFO ] 2024-06-21 11:21:24.704 [main] StepDefn - User can view Add new customer page- passed
+[INFO ] 2024-06-21 11:21:26.079 [main] StepDefn - customer information entered
+[INFO ] 2024-06-21 11:21:30.486 [main] StepDefn - clicked on save button
+[INFO ] 2024-06-21 11:21:30.657 [main] StepDefn - User can view confirmation message - passed
+[INFO ] 2024-06-21 11:21:30.934 [main] StepDefn - Browser closed
+[FATAL] 2024-06-21 11:21:32.532 [main] StepDefn - Setup1 executed...
+[INFO ] 2024-06-21 11:21:32.535 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:21:33.922 [main] StepDefn - navigated to login page
+[INFO ] 2024-06-21 11:21:34.281 [main] StepDefn - Login is performed
+[INFO ] 2024-06-21 11:21:35.737 [main] StepDefn - Clicked on login button
+[WARN ] 2024-06-21 11:21:36.932 [main] StepDefn - Test passed: Login feature :Page title matched.
+[INFO ] 2024-06-21 11:21:38.389 [main] StepDefn - user clicked on logout link.
+[INFO ] 2024-06-21 11:21:38.538 [main] StepDefn - Browser closed
+[FATAL] 2024-06-21 11:21:39.742 [main] StepDefn - Setup1 executed...
+[INFO ] 2024-06-21 11:21:39.745 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:21:41.136 [main] StepDefn - navigated to login page
+[INFO ] 2024-06-21 11:21:41.487 [main] StepDefn - Login is performed
+[INFO ] 2024-06-21 11:21:41.971 [main] StepDefn - Clicked on login button
+[FATAL] 2024-06-21 11:21:43.202 [main] StepDefn - Setup1 executed...
+[INFO ] 2024-06-21 11:21:43.205 [main] StepDefn - Browser is intialized
+[INFO ] 2024-06-21 11:21:44.460 [main] StepDefn - navigated to login page
+[INFO ] 2024-06-21 11:21:44.901 [main] StepDefn - Login is performed
+[INFO ] 2024-06-21 11:21:46.448 [main] StepDefn - Clicked on login button
+[WARN ] 2024-06-21 11:21:47.782 [main] StepDefn - Test passed: Login feature :Page title matched.
+[INFO ] 2024-06-21 11:21:49.459 [main] StepDefn - user clicked on logout link.
+[INFO ] 2024-06-21 11:21:49.606 [main] StepDefn - Browser closed
